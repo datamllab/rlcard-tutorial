@@ -14,4 +14,4 @@ For Python version, we provide these toy examples in Colaboratory:
 *   [Training DQN on Blackjack](https://colab.research.google.com/github/mia1996/r-rlcard_test/blob/master/Blackjack_dqn.ipynb)
 *   [Running multiple processes](https://colab.research.google.com/github/mia1996/r-rlcard_test/blob/master/Blackjack_mutiple_process.ipynb)
 *   [Leduc Hold'em as single-agent environment](https://colab.research.google.com/github/mia1996/r-rlcard_test/blob/master/Leduc_single_agent.ipynb)
-*   [Training CFR on Leduc Hold'em](Thttps://colab.research.google.com/github/mia1996/r-rlcard_test/blob/master/leduc_holdem_cfr.ipynb)
+*   [Training CFR on Leduc Hold'em](https://colab.research.google.com/github/mia1996/r-rlcard_test/blob/master/leduc_holdem_cfr.ipynb)
