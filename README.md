@@ -13,11 +13,11 @@ This is an official tutorial for [RLCard: A Toolkit for Reinforcement Learning i
 *   [Training CFR on Leduc Hold'em](https://github.com/datamllab/rlcard-tutorial/blob/master/python/leduc_holdem_cfr.ipynb)
 
 ### Links to Colab
-*   [Having Fun with Pretrained Leduc Model](https://colab.research.google.com/github/mia1996/r-rlcard_test/blob/master/leduc_holdem_pretrained.ipynb)
-*   [Training DQN on Blackjack](https://colab.research.google.com/github/mia1996/r-rlcard_test/blob/master/Blackjack_dqn.ipynb)
-*   [Running multiple processes](https://colab.research.google.com/github/mia1996/r-rlcard_test/blob/master/Blackjack_mutiple_process.ipynb)
-*   [Leduc Hold'em as single-agent environment](https://colab.research.google.com/github/mia1996/r-rlcard_test/blob/master/Leduc_single_agent.ipynb)
-*   [Training CFR on Leduc Hold'em](https://colab.research.google.com/github/mia1996/r-rlcard_test/blob/master/leduc_holdem_cfr.ipynb)
+*   [Having Fun with Pretrained Leduc Model](https://colab.research.google.com/github/mia1996/rlcard-tutoirial/blob/master/leduc_holdem_pretrained.ipynb)
+*   [Training DQN on Blackjack](https://colab.research.google.com/github/mia1996/rlcard-tutoirial/blob/master/blackjack_dqn.ipynb)
+*   [Running multiple processes](https://colab.research.google.com/github/mia1996/rlcard-tutoirial/blob/master/blackjack_mutiple_process.ipynb)
+*   [Leduc Hold'em as single-agent environment](https://colab.research.google.com/github/mia1996/rlcard-tutoirial/blob/master/leduc_single_agent.ipynb)
+*   [Training CFR on Leduc Hold'em](https://colab.research.google.com/github/mia1996/rlcard-tutoirial/blob/master/leduc_holdem_cfr.ipynb)
 
 ## For R
 This tutorial uses [reticulate](https://rstudio.github.io/reticulate/) to call RLCard with R interfaces. Please make sure that you have **Python 3.5+** and **pip** installed.
