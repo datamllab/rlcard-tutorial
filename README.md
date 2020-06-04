@@ -12,14 +12,14 @@ pip3 install -r requirements.txt
 ```
 
 ### Tutorials
-*   [Having Fun with Pretrained Leduc Model](https://github.com/datamllab/rlcard-tutorial/blob/master/Python-rlcard-tutorial/leduc_holdem_pretrained.ipynb)
-*   [Training DQN on Blackjack](https://colab.research.google.com/github/mia1996/r-rlcard_test/blob/master/Blackjack_dqn.ipynb)
-*   [Running multiple processes](https://colab.research.google.com/github/mia1996/r-rlcard_test/blob/master/Blackjack_mutiple_process.ipynb)
-*   [Leduc Hold'em as single-agent environment](https://colab.research.google.com/github/mia1996/r-rlcard_test/blob/master/Leduc_single_agent.ipynb)
-*   [Training CFR on Leduc Hold'em](https://colab.research.google.com/github/mia1996/r-rlcard_test/blob/master/leduc_holdem_cfr.ipynb)
+*   [Having Fun with Pretrained Leduc Model](https://github.com/datamllab/rlcard-tutorial/blob/master/python/leduc_holdem_pretrained.ipynb)
+*   [Training DQN on Blackjack](https://github.com/datamllab/rlcard-tutorial/blob/master/python/blackjack_dqn.ipynb)
+*   [Running multiple processes](https://github.com/datamllab/rlcard-tutorial/blob/master/python/blackjack_mutiple_process.ipynb)
+*   [Leduc Hold'em as single-agent environment](https://github.com/datamllab/rlcard-tutorial/blob/master/python/leduc_single_agent.ipynb)
+*   [Training CFR on Leduc Hold'em](https://github.com/datamllab/rlcard-tutorial/blob/master/python/leduc_holdem_cfr.ipynb)
 
 ### Tutorials in Colab
-*   [Having Fun with Pretrained Leduc Model](https://github.com/datamllab/rlcard-tutorial/blob/master/Python-rlcard-tutorial/leduc_holdem_pretrained.ipynb)
+*   [Having Fun with Pretrained Leduc Model](https://colab.research.google.com/github/mia1996/r-rlcard_test/blob/master/leduc_holdem_pretrained.ipynb)
 *   [Training DQN on Blackjack](https://colab.research.google.com/github/mia1996/r-rlcard_test/blob/master/Blackjack_dqn.ipynb)
 *   [Running multiple processes](https://colab.research.google.com/github/mia1996/r-rlcard_test/blob/master/Blackjack_mutiple_process.ipynb)
 *   [Leduc Hold'em as single-agent environment](https://colab.research.google.com/github/mia1996/r-rlcard_test/blob/master/Leduc_single_agent.ipynb)
@@ -28,11 +28,11 @@ pip3 install -r requirements.txt
 ## For R
 This tutorial uses [reticulate](https://rstudio.github.io/reticulate/) to call RLCard with R interfaces. Please make sure that you have **Python 3.5+** and **pip** installed.
 
-*   [Training DQN on Blackjack](https://github.com/datamllab/rlcard-tutorial/blob/master/R-rlcard-tutorial/Deep-Q_learning_blackjack/Deep-Q_Learning_Blackjack.ipynb)
-*   [Training CFR on Leduc Hold'em](https://github.com/datamllab/rlcard-tutorial/blob/master/R-rlcard-tutorial/CFR_leduc_holdem/CFR_leduc_hold'em.ipynb)
-*   [Leduc Hold'em as single-agent environment](https://github.com/datamllab/rlcard-tutorial/blob/master/R-rlcard-tutorial/Random_agent_blackjack/Random_agent_blackjack.ipynb)
-*   [Texas Hold'em nolimit](https://github.com/datamllab/rlcard-tutorial/blob/master/R-rlcard-tutorial/Texas_holdem_nolimit/r-rlcard_no-limit_Texas_Holdem.ipynb)
-*   [Running Random agent on Blackjack](https://github.com/datamllab/rlcard-tutorial/blob/master/R-rlcard-tutorial/Random_agent_blackjack/Random_agent_blackjack.ipynb)
+*   [Training DQN on Blackjack](https://github.com/datamllab/rlcard-tutorial/blob/master/r/blackjack_dqn/blackjack_dqn.ipynb)
+*   [Training CFR on Leduc Hold'em](https://github.com/datamllab/rlcard-tutorial/blob/master/r/leduc_holdem_cfr/leduc_holdem_cfr.ipynb)
+*   [Leduc Hold'em as single-agent environment](https://github.com/datamllab/rlcard-tutorial/blob/master/r/leduc_single_agent/leduc_single_agent.ipynb)
+*   [Texas Hold'em nolimit](https://github.com/datamllab/rlcard-tutorial/blob/master/r/nolimit_holdem/nolimit_holdem.ipynb)
+*   [Running Random agent on Blackjack](https://github.com/datamllab/rlcard-tutorial/blob/master/r/blackjack_random/blackjack_random.ipynb)
 
 ## Contributing
 Contribution to this project is greatly appreciated! Please create an issue/pull request for feedbacks or more tutorials.
