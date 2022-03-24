@@ -1,2 +1,1 @@
 rlcard
-tensorflow>=1.14,<2.0
