@@ -6,11 +6,11 @@ This is an official tutorial for [RLCard: A Toolkit for Reinforcement Learning i
 
 ## For Python
 ### Tutorials in Jupyter Notebook
-*   [Playing with Random Agents](https://github.com/datamllab/rlcard-tutorial/blob/master/python/random.ipynb)
-*   [Training DQN on Blackjack](https://github.com/datamllab/rlcard-tutorial/blob/master/python/blackjack_dqn.ipynb)
-*   [Training CFR on Leduc Hold'em](https://github.com/datamllab/rlcard-tutorial/blob/master/python/leduc_holdem_cfr.ipynb)
-*   [Having Fun with Pretrained Leduc Model](https://github.com/datamllab/rlcard-tutorial/blob/master/python/leduc_holdem_pretrained.ipynb)
-*   [Training DMC on Dou Dizhu](https://github.com/datamllab/rlcard-tutorial/blob/master/python/dmc_doudizhu.ipynb)
+*   [Playing with Random Agents](https://github.com/datamllab/rlcard-tutorial/blob/master/random.ipynb)
+*   [Training DQN on Blackjack](https://github.com/datamllab/rlcard-tutorial/blob/master/blackjack_dqn.ipynb)
+*   [Training CFR on Leduc Hold'em](https://github.com/datamllab/rlcard-tutorial/blob/master/leduc_holdem_cfr.ipynb)
+*   [Having Fun with Pretrained Leduc Model](https://github.com/datamllab/rlcard-tutorial/blob/master/leduc_holdem_pretrained.ipynb)
+*   [Training DMC on Dou Dizhu](https://github.com/datamllab/rlcard-tutorial/blob/master/dmc_doudizhu.ipynb)
 
 ### Links to Colab
 *   [Playing with Random Agents](https://colab.research.google.com/github/mia1996/rlcard-tutoirial/blob/master/random.ipynb)
